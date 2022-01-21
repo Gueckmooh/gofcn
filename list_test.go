@@ -1,8 +1,9 @@
 package gofcn_test
 
 import (
-	"gofcn"
 	"testing"
+
+	"github.com/gueckmooh/gofcn"
 )
 
 func TestFilterIntList(t *testing.T) {
